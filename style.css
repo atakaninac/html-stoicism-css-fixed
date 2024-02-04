@@ -23,3 +23,8 @@ img{
     width: 500px ;
     height: 350px;
 }
+
+a {
+    color: rgb(116, 114, 100);
+    font-size: large;
+}
